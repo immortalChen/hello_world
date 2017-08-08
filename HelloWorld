@@ -1,6 +1,11 @@
-pulbic void test{
+pulbic class test{
   public static void main(){
     System.out.println("test");
   }
+
+}
+
+
+class Hello{
 
 }
