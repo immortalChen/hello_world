@@ -1,0 +1,6 @@
+pulbic void test{
+  public static void main(){
+    System.out.println("test");
+  }
+
+}
